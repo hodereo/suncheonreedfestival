@@ -454,7 +454,7 @@ button {
     background-color: #ffffff;
 }
 #sec_3 .inner{
-    height: 850px;
+    padding-bottom: 150px;
 }
 
 #sec_3 .inner h3{
@@ -531,7 +531,7 @@ button {
     background-color: #fcf2e2;
 }
 #sec_4 .inner{
-    height: 850px;
+    padding-bottom: 150px;
 }
 
 
@@ -554,7 +554,7 @@ button {
     width:23.5% ; 
     height: 340px; 
     overflow: hidden;
-    margin-bottom: 110px;
+    margin-bottom: 50px;
 } 
 
 .sec4_cont>img{
