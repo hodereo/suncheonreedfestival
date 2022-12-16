@@ -444,14 +444,8 @@ button {
     vertical-align: middle;
 }
 
-#sec_2 .inner .sec2_right a{
-    filter:grayscale(0);
-}
 
-#sec_2 .inner .sec2_right a:hover{
-    filter:grayscale(1);
-    transition: 0.5s;
-}
+
 
 
 /****section3****/
@@ -504,7 +498,7 @@ button {
 #sec_3 .inner .sec3_cont h5{
     width:100%;
     font-size: 1rem;
-    font-weight: 600;
+    font-weight: 500;
     color:#555555;
     text-align: center;
     padding-bottom: 20px;
@@ -537,7 +531,7 @@ button {
     background-color: #fcf2e2;
 }
 #sec_4 .inner{
-    height: 800px;
+    height: 850px;
 }
 
 
@@ -560,7 +554,7 @@ button {
     width:23.5% ; 
     height: 340px; 
     overflow: hidden;
-    margin-bottom: 70px;
+    margin-bottom: 110px;
 } 
 
 .sec4_cont>img{
@@ -618,6 +612,7 @@ button {
     border-radius: 10px;
     background-color: #cf4430;
     margin-left: 500px;
+    vertical-align: middle;
 }
 
 #sec_4 .inner h5 a:hover{
