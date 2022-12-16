@@ -460,7 +460,7 @@ button {
     background-color: #ffffff;
 }
 #sec_3 .inner{
-    height: 900px;
+    height: 850px;
 }
 
 #sec_3 .inner h3{
@@ -557,20 +557,19 @@ button {
 }
 
 .sec4_cont{
-    width:23% ; 
-    height: 350px; 
+    width:23.5% ; 
+    height: 340px; 
     overflow: hidden;
     margin-bottom: 70px;
 } 
 
 .sec4_cont>img{
     width: 100%;
-    height: 100%;
 }
 .sec4_cont>div{
     width: 100%; 
     height: 100%; 
-    background-color: rgba(0, 0, 0, 0.4); 
+    background-color: rgba(0, 0, 0, 0.6); 
     text-align: center; 
     padding: 10%; 
     box-sizing: border-box; 
@@ -580,14 +579,13 @@ button {
 
 #sec_4 .inner .sec4_cont{
     background-color: #f3f2f1;   
-    height:350px;
+    height:340px;
     width: 23.5%;
     display: flex;
     flex-direction:row;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    border-radius: 10px;
 }
 
 
@@ -615,17 +613,17 @@ button {
 #sec_4 .inner h5 a{
     font-size: 1.3rem;
     padding:10px 25px;
-    color:#333333;
+    color:#fbe0b5;
     font-weight:700;
     border-radius: 10px;
-    background-color: rgba(251, 224, 181, 0.2);
+    background-color: #cf4430;
     margin-left: 500px;
 }
 
 #sec_4 .inner h5 a:hover{
-    background-color: #cf4430;
+    background-color:#fbe0b5;
     padding:10px 25px;
-    color:#ffffff;
+    color:#cf4430;
     transition: 0.5s;
 }
 
